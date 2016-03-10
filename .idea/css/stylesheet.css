@@ -1,0 +1,214 @@
+body {
+    margin: 0px auto 0px auto;
+    padding: 0px;
+    width: 1024px;
+    float: none;
+}
+
+p {
+    margin: 0;
+}
+nav {
+    background-color: #373c3f;
+    width: 95%;
+    height: 125px;
+    color: white;
+    float: none;
+    padding-left: 5%;
+}
+nav ul li {
+    float: left;
+    display: block;
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    margin: 50px 30px auto auto;
+}
+#menu {
+    margin: auto 250px 25px auto;
+    font-family: sans-serif;
+    color: white;
+}
+/*her begynder body */
+#box-3 {
+    width: 100%;
+    height: 500px;
+
+
+}
+#box-block-blue {
+    background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00cccc+1,009999+100 */
+    background: #00cccc; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #00cccc 1%, #009999 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #00cccc 1%,#009999 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #00cccc 1%,#009999 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00cccc', endColorstr='#009999',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+;
+    width: 100%;
+    height: 550px;
+
+}
+#box-text-block {
+    width: 70%;
+    height: 200px;
+    text-align: left;
+    margin-left: 20%;
+    padding-top: 200px;
+}
+#paragraf-1 {
+    font-family: sans-serif;
+    font-size: 45px;
+    color: white;
+    margin-top: auto;
+    font-weight: bold;
+}
+#paragraf-2 {
+    font-family: sans-serif;
+    font-size: 45px;
+    color: white;
+    font-weight: bold;
+}
+#paragraf-3 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #a6d4de;
+    margin-top: 30px;
+}
+#box-block-two {
+    display: block;
+    width: 100%;
+    height: 150px;
+
+}
+#box-black {
+    float: left;
+    width: 80%;
+    height: 244px;
+    background-color: #27212c;
+   }
+#paragraf-4 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #9282a0;
+    text-align: center;
+    padding-top: 85px;
+}
+#box-pink {
+    width: 20%;
+    height: 244px;
+    position: relative;
+    float: left;
+    background-color: #bc3183;
+    box-shadow: white -1px 0px 1px;
+}
+#paragraf-5 {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Bold;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 85px;
+}
+.box-body {
+    width: 100%;
+    height: 500px;
+}
+#block-lilla {
+    background-color: #5b0fa1;
+    width: 34%;
+    height: 296px;
+    float: left;
+}
+#paragraf-6 {
+    color: white;
+    font-family: Arial, Bold;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 35%;
+    font-size: 50px;
+}
+#block-bridge {
+    display: block;
+    width: 33%;
+    height: 296px;
+    float: left;
+}
+#block-girl {
+    display: block;
+    width: 33%;
+    height: 296px;
+    float: left;
+}
+
+/* her begynder footer*/
+#block-footer {
+    display: block;
+    background-color: #ebebeb;
+    width: 100%;
+    height: 550px;
+}
+.footer {
+    display: block;
+    background-color: #ebebeb;
+    width: 100%;
+    height: 550px;
+
+}
+
+#block-footer-1 {
+    width: 45%;
+    height: 500px;
+    float: left;
+}
+
+#paragraf-7 {
+    font-family: Arial, Bold;
+    font-size: 25px;
+    color: #088ca5;
+    text-align: left;
+    margin: 30px 0 auto 10%;
+}
+
+#paragraf-8 {
+    font-family: Arial;
+    font-size: 12px;
+    color: #515151;
+    text-align: left;
+    margin: 30px 0 auto 10%;
+}
+#paragraf-8-1 {
+    font-family: Arial;
+    font-size: 12px;
+    color: #515151;
+    text-align: left;
+    margin: 85px 0 auto 10%;
+}
+#paragraf-8-2 {
+    font-family: Arial;
+    font-size: 12px;
+    color: #515151;
+    text-align: left;
+    margin: 30px 0 auto 10%;
+}
+#block-footer-2 {
+    width: 45%;
+    height: 500px;
+    float: left;
+}
+@media screen and (max-width: 640px)
+{
+    #block- {width: 100%;
+
+
+    }
+
+
+
+}
+/*@media screen and (max-width: 640px)
+{
+    [class*="box-"] {width: 100%;}
+    #gray {width: 100%;}
+
+}
+*/
