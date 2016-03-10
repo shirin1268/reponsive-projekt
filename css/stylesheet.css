@@ -139,6 +139,8 @@ nav ul li {
     height: 296px;
     float: left;
 }
+
+/* Her begynder footer */
 .footer {
     display: block;
     background-color: #ebebeb;
@@ -186,4 +188,5 @@ nav ul li {
     height: 500px;
     float: left;
 }
+
 
